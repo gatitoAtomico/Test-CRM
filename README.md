@@ -25,4 +25,4 @@ In order to run the test run php artisan test
 
 ## General Info
 
-The project user server side functionality for the pagination, ajax is used for deleting, updating and creating a new user in the database, for creating my project i used xampp server and laravel 7
+The project use server side functionality for the pagination, ajax is used for deleting, updating and creating a new user in the database, for creating my project i used xampp server and laravel 7
